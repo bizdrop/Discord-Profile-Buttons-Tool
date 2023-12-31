@@ -26,4 +26,4 @@ For adding images you just need to add them to your DiscordRPC Assets in the Por
 
 ## What it looks like
 
-![App Screenshot](https://i.imgur.com/yyyMQkj.png) ![App Screenshot](https://i.imgur.com/OsFkdDN.png)
+![App Screenshot](https://i.imgur.com/OsFkdDN.png) ![App Screenshot](https://i.imgur.com/yyyMQkj.png)
