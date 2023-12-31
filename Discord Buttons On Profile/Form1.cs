@@ -20,7 +20,7 @@ namespace Discord_Buttons_On_Profile
         public Form1()
         {
             InitializeComponent();
-            discordRpcClient = new DiscordRpcClient("1190868684726616094");
+            discordRpcClient = new DiscordRpcClient("CLIENT ID");
             discordRpcClient.Initialize();
         }
 
