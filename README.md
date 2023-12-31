@@ -18,6 +18,11 @@ Change the info to whatever you want then click start
 
 ![App Screenshot](https://i.imgur.com/jsXvLbb.png)
 
+## For images
+For adding images you just need to add them to your DiscordRPC Assets in the Portal and add it to the dropdown in the tool
+
+![App Screenshot](https://i.imgur.com/9GrT2Zr.png)
+
 ## What it looks like
 
 ![App Screenshot](https://i.imgur.com/yyyMQkj.png)
