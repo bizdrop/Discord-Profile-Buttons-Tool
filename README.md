@@ -1,7 +1,7 @@
 # DiscordRPC Tool
 
 Tool were you can cutomize the discordRPC to your liking.          
-NOTE: Change buttons button dosent do anything it was befor the checkbox just forgot to remove and too lazy to reupload ;)
+NOTE: Change buttons button dosent do anything it was before the checkbox just forgot to remove and too lazy to reupload ;)
 
 ## Step 1
 Create a Application in the Developer Portal and name it what you want to say your playing then grab your Client ID under the OAuth2 general
