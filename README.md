@@ -11,8 +11,8 @@ Create a Application in the Developer Portal and name it what you want to say yo
 ## Step 2
 Change the info to whatever you want then click start
 
-![App Screenshot](https://imgur.com/jsXvLbb)
+![App Screenshot](https://i.imgur.com/jsXvLbb.png)
 
 ## What it looks like
 
-![App Screenshot](https://imgur.com/yyyMQkj)
+![App Screenshot](https://i.imgur.com/yyyMQkj.png)
