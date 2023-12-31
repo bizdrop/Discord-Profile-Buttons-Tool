@@ -1,14 +1,14 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
+using System;
+using DiscordRPC;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
+using System.Data;
+using System.Drawing;
 using System.Windows.Forms;
+using System.ComponentModel;
+using System.Threading.Tasks;
+using System.Collections.Generic;
 using System.Windows.Forms.VisualStyles;
-using DiscordRPC;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
 namespace Discord_Buttons_On_Profile
