@@ -1,0 +1,16 @@
+E:\Discord Buttons On Profile\Discord Buttons On Profile\Discord Buttons On Profile\bin\Debug\Discord Buttons On Profile.exe.config
+E:\Discord Buttons On Profile\Discord Buttons On Profile\Discord Buttons On Profile\bin\Debug\Discord Buttons On Profile.exe
+E:\Discord Buttons On Profile\Discord Buttons On Profile\Discord Buttons On Profile\bin\Debug\Discord Buttons On Profile.pdb
+E:\Discord Buttons On Profile\Discord Buttons On Profile\Discord Buttons On Profile\obj\Debug\Discord Buttons On Profile.csproj.AssemblyReference.cache
+E:\Discord Buttons On Profile\Discord Buttons On Profile\Discord Buttons On Profile\obj\Debug\Discord_Buttons_On_Profile.Form1.resources
+E:\Discord Buttons On Profile\Discord Buttons On Profile\Discord Buttons On Profile\obj\Debug\Discord_Buttons_On_Profile.Properties.Resources.resources
+E:\Discord Buttons On Profile\Discord Buttons On Profile\Discord Buttons On Profile\obj\Debug\Discord Buttons On Profile.csproj.GenerateResource.cache
+E:\Discord Buttons On Profile\Discord Buttons On Profile\Discord Buttons On Profile\obj\Debug\Discord Buttons On Profile.csproj.CoreCompileInputs.cache
+E:\Discord Buttons On Profile\Discord Buttons On Profile\Discord Buttons On Profile\obj\Debug\Discord Buttons On Profile.exe
+E:\Discord Buttons On Profile\Discord Buttons On Profile\Discord Buttons On Profile\obj\Debug\Discord Buttons On Profile.pdb
+E:\Discord Buttons On Profile\Discord Buttons On Profile\Discord Buttons On Profile\bin\Debug\DiscordRPC.dll
+E:\Discord Buttons On Profile\Discord Buttons On Profile\Discord Buttons On Profile\bin\Debug\Newtonsoft.Json.dll
+E:\Discord Buttons On Profile\Discord Buttons On Profile\Discord Buttons On Profile\bin\Debug\DiscordRPC.pdb
+E:\Discord Buttons On Profile\Discord Buttons On Profile\Discord Buttons On Profile\bin\Debug\DiscordRPC.xml
+E:\Discord Buttons On Profile\Discord Buttons On Profile\Discord Buttons On Profile\bin\Debug\Newtonsoft.Json.xml
+E:\Discord Buttons On Profile\Discord Buttons On Profile\Discord Buttons On Profile\obj\Debug\Discord Buttons On Profile.csproj.CopyComplete
