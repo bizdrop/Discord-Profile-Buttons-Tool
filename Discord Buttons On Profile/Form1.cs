@@ -58,7 +58,6 @@ namespace Discord_Buttons_On_Profile
                     Details = detailText,
                     State = stateText
                 });
-                return;
             }
 
             if (buttons == true)
@@ -88,7 +87,6 @@ namespace Discord_Buttons_On_Profile
                     new DiscordRPC.Button { Label = button2Label, Url = button2Link }
                 }
                 });
-                return;
             }
         }
 
